@@ -1,0 +1,7 @@
+name = "mcp-auth-kit"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+[[kv_namespaces]]
+binding = "MCP_AUTH"
+id = "d3bf6e452a6f4daaa2ced1b1690e9b20"

@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server-auth-kit",
+  "version": "1.0.0",
+  "description": "Secure MCP server template with API-Key authentication: Bearer token validation, KV-backed key management, protected tools. Add auth to any MCP server in minutes.",
+  "main": "worker.js",
+  "type": "module",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "template",
+    "server",
+    "ai",
+    "agent"
+  ],
+  "license": "SEE LICENSE IN README.md",
+  "author": "PixHarvest (ContentForge)"
+}
